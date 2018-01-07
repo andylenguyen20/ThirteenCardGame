@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Thirteen Card Game</string>
+    <string name="clear">Clear</string>
+    <string name="submit">Submit</string>
+    <string name="skip">Skip</string>
+    <string name="start_game">Start Game</string>
+    <string name="sign_out">Sign out</string>
+    <string name="sign_in">Sign in</string>
+    <string name="click_to_start_turn">Click to Start Turn</string>
+    <string name="you_re_up">You\'re Up!</string>
+    <string name="signin_other_error">Sign-in other error</string>
+    <string name="status_multiplayer_error_not_trusted_tester">Status multiplayer error not trusted tester</string>
+    <string name="match_error_already_rematched">Match error already rematched</string>
+    <string name="network_error_operation_failed">Network error operation failed</string>
+    <string name="client_reconnect_required">Client reconnect required</string>
+    <string name="internal_error">Internal error</string>
+    <string name="match_error_inactive_match">Match error inactive match</string>
+    <string name="match_error_locally_modified">Match error locally modified</string>
+    <string name="unexpected_status">Unexpected status</string>
+    <string name="app_id">603113182389</string>
+</resources>
